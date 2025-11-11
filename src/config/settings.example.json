@@ -1,0 +1,8 @@
+{
+  "base_url": "https://streeteasy.com",
+  "output_format": "json",
+  "scraper_config": {
+    "max_pages": 100,
+    "scrape_interval_seconds": 60
+  }
+}
