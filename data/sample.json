@@ -1,0 +1,14 @@
+[
+  {
+    "id": "12345",
+    "price": "$1,200,000",
+    "areaName": "Brooklyn",
+    "bedroomCount": "3",
+    "buildingType": "Condo",
+    "priceChangedAt": "2023-11-10T12:00:00Z",
+    "geoPoint": "[40.6782,-73.9442]",
+    "amenities": ["Gym", "Pool", "Laundry"],
+    "photos": ["https://example.com/photo1.jpg", "https://example.com/photo2.jpg"],
+    "urlPath": "https://streeteasy.com/buildings/12345"
+  }
+]
